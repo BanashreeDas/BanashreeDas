@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/190461844?v=4" width="100" style="border-radius:50%;" alt="Banashree Das"/>
-
 # Hi, I'm Banashree Das 👋
 
 **Full Stack Developer · Web Designer · MCA Student**
@@ -9,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banashree-das/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/BanashreeDas)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:banashreed2@gmail.com)
-[![Location](https://img.shields.io/badge/Siliguri%2C%20WB%20🇮🇳-grey?style=flat)](https://github.com/BanashreeDas)
 
 </div>
 
@@ -17,7 +14,7 @@
 
 ## 🧑‍💻 About me
 
-Final-year MCA student at Siliguri Institute of Technology passionate about building full-stack products that solve real problems. I've shipped production websites for real clients, built a healthcare AI app with OCR, and enjoy working across the entire stack — from React frontends to FastAPI backends. Currently exploring the intersection of web development and generative AI.
+Final-year MCA student passionate about building full-stack products that solve real problems. I've shipped production websites for actual clients, built a healthcare AI app with OCR, and enjoy working across the entire stack — from React frontends to FastAPI backends. Currently exploring the intersection of web development and generative AI.
 
 ---
 
@@ -101,8 +98,6 @@ Final-year MCA student at Siliguri Institute of Technology passionate about buil
 |--------|------------|------|-------|
 | MCA | Siliguri Institute of Technology | 2024–2026 | CGPA 7.76 |
 | B.Sc (General) | Siliguri College | 2021–2024 | CGPA 8.18 |
-| Higher Secondary | DAV School, Fulbari | 2021 | 74% |
-| Secondary | St. Joseph's School, Bhaktinagar | 2019 | 87% |
 
 ---
 
@@ -114,7 +109,7 @@ Final-year MCA student at Siliguri Institute of Technology passionate about buil
 
 ## 📬 Let's Connect
 
-I'm open to internship and full-time opportunities in full-stack development.
+> 🟢 Available for **full-time** and **remote** opportunities
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banashree-das/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banashreed2@gmail.com)
@@ -122,5 +117,5 @@ I'm open to internship and full-time opportunities in full-stack development.
 ---
 
 <div align="center">
-<sub>⚡ Built with passion from Siliguri, West Bengal</sub>
+<sub>⚡ Open to full-time and remote roles</sub>
 </div>
